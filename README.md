@@ -7,7 +7,7 @@
 ## About me
 - 🌱 I’m currently studying at <b>ITMO University</b>
 - 🔭 I worked at the <b>"Shkolkovo"</b> online school  for about a year and on <b>personal projects</b>
-- My [codeforces profile](https://codeforces.com/profile/Parzival-0_0)
+- <img src="/src/code-forces.svg" width="20">  My [codeforces profile](https://codeforces.com/profile/Parzival-0_0)
 
 ---
 
