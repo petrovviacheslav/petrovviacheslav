@@ -8,6 +8,7 @@
 - 🌱 I’m currently studying at <b>ITMO University</b>
 - 🔭 I worked at the <b>"Shkolkovo"</b> online school  for about a year and on <b>personal projects</b>
 - <img src="/src/code-forces.svg" width="20">  My [codeforces profile](https://codeforces.com/profile/Parzival-0_0)
+- <img src="/src/habr.svg" width="20">  My [habr profile](https://habr.com/ru/users/petrovviacheslav/)
 
 ---
 
@@ -35,7 +36,7 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrovviacheslav&theme=github_dark&layout=compact" />  
     <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrovviacheslav&theme=github_dark" alt=""/>
     <br/>
-    <img width="30%" src="https://komarev.com/ghpvc/?username=petrovviacheslav&style=flat-square&abbreviated=true&color=red">
+    <img width="20%" src="https://komarev.com/ghpvc/?username=petrovviacheslav&style=flat-square&abbreviated=true&color=red">
 </div>
 
 
