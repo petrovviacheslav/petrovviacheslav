@@ -1,17 +1,40 @@
-<div align="center">
-# Hello there 👋, I'm [petrovviacheslav (parzival)](http://parzi.ru/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30">
-Hi, I'm Petrov Vyacheslav, 19 years old and I have been studying programming in different languages ​​for about 3 years
+<div id="header" align="center">
+    <h1>Hello there 👋, I'm <a href="http://parzi.ru/" target="_blank">petrovviacheslav (parzival)</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30"></h1>
+    <h4>Hi, I'm Petrov Vyacheslav, 19 years old and I have been studying programming in different languages ​​for about 3 years</h4>
+</div>
 
+
+## About me
 - 🌱 I’m currently studying at <b>ITMO University</b>
 - 🔭 I worked at the <b>"Shkolkovo"</b> online school  for about a year and on <b>personal projects</b>
 - My [codeforces profile](https://codeforces.com/profile/Parzival-0_0)
 
+---
 
-## My Stats 🫠
+## Languages and tools <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30">
 
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=petrovviacheslav&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" />
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrovviacheslav&theme=github_dark&layout=compact" />
 
-![Profile views](https://komarev.com/ghpvc/?username=petrovviacheslav&style=flat-square&abbreviated=true&color=green)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="c" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" title="ohmyzsh" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>&nbsp;
+                    
 
+## My Stat 🫠
+
+
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrovviacheslav&theme=github_dark" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrovviacheslav&theme=github_dark&layout=compact" />  
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrovviacheslav&theme=github_dark" alt=""/>
 </div>
+
+![Profile views](https://komarev.com/ghpvc/?username=petrovviacheslav&style=flat-square&abbreviated=true&color=red)
+---
