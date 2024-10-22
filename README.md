@@ -31,10 +31,12 @@
 
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrovviacheslav&theme=github_dark" alt=""/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrovviacheslav&theme=github_dark&layout=compact" />  
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrovviacheslav&theme=github_dark" alt=""/>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrovviacheslav&theme=github_dark" alt=""/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrovviacheslav&theme=github_dark&layout=compact" />  
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrovviacheslav&theme=github_dark" alt=""/>
+    <br/>
+    ![Profile views](https://komarev.com/ghpvc/?username=petrovviacheslav&style=flat-square&abbreviated=true&color=red)
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=petrovviacheslav&style=flat-square&abbreviated=true&color=red)
+
 ---
