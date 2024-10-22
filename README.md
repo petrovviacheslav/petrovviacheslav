@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hello there 👋, I'm <a href="http://parzi.ru/" target="_blank">petrovviacheslav (parzival)</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30"></h1>
-    <h4>Hi, I'm Petrov Vyacheslav, 19 years old and I have been studying programming in different languages ​​for about 3 years</h4>
+    <h3>Hi, I'm Petrov Vyacheslav, 19 years old and I have been studying programming in different languages ​​for about 3 years</h3>
 </div>
 
 
@@ -35,7 +35,7 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrovviacheslav&theme=github_dark&layout=compact" />  
     <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrovviacheslav&theme=github_dark" alt=""/>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=petrovviacheslav&style=flat-square&abbreviated=true&color=red">
+    <img width="30%" src="https://komarev.com/ghpvc/?username=petrovviacheslav&style=flat-square&abbreviated=true&color=red">
 </div>
 
 
