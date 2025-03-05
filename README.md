@@ -8,7 +8,7 @@
 - 🌱 I’m currently studying at <b>ITMO University</b>
 - 🔭 I worked at the <b>"Shkolkovo"</b> online school  for about a year and on <b>personal projects</b>
 - <img src="/src/code-forces.svg" width="20">  My [codeforces profile](https://codeforces.com/profile/Parzival-0_0)
-- <img src="/src/habr.svg" width="20">  My [habr profile](https://habr.com/ru/users/petrovviacheslav/)
+- <img src="/src/leetcode.svg" width="20">  My [leetcode profile](https://leetcode.com/u/Parzival-0_0/)
 
 ---
 
@@ -32,10 +32,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" title="ohmyzsh" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>&nbsp;
-<img src="/src/freebsd.svg" title="freebsd" width="40" height="40"/>&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" title="ubuntu" width="40" height="40"/>&nbsp;
+<img src="/src/freebsd.svg" title="freebsd" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original-wordmark.svg" title="debian" width="40" heignt="40 "/>>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" title="windows11" width="40" height="40"/>&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title="vscode" width="40" height="40"/>&nbsp;
