@@ -1,15 +1,15 @@
 <div id="header" align="center">
     <h1>Hello there 👋, I'm <a href="http://parzi.ru/" target="_blank">petrovviacheslav (parzival)</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30"></h1>
-    <h3>Hi, I'm Petrov Vyacheslav, 19 years old and I have been studying programming in different languages ​​for about 3 years</h3>
+    <h3>Hi, I'm Petrov Vyacheslav, 20 years old and I have been studying programming in different languages ​​for about 4 years</h3>
 </div>
 
 
 ## About me
 - 🌱 I’m currently studying at <b>ITMO University</b>
 - 🔭 I worked at the <b>"Shkolkovo"</b> online school  for about a year and on <b>personal projects</b>
+- 🔭 Java/Kotlin developer, Yandex Fintech (october 2025 - now)
 - <img src="/src/code-forces.svg" width="20">  My [codeforces profile](https://codeforces.com/profile/Parzival-0_0)
 - <img src="/src/leetcode.svg" width="20">  My [leetcode profile](https://leetcode.com/u/Parzival-0_0/)
-- My [personal website](http://parzi.ru)
 
 ### Personal projects
 
